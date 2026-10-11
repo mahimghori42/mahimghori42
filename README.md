@@ -27,7 +27,7 @@
 |---|---|
 | 🎓 **Background** | BBA Graduate |
 | 💼 **Role** | Aspiring Data Analyst |
-| 🛠️ **Skills** | Excel · SQL · Power BI |
+| 🛠️ **Skills** | **Tools:** Excel · SQL · Power BI · Jira<br>**Excel:** Pivot Tables · Formulas & Functions · Lookups (VLOOKUP / XLOOKUP) · Conditional Formatting · Charts<br>**Analysis:** Data Analysis · Data Cleaning · Trend Analysis · KPI Tracking · Sales & Customer Analysis · Market Performance Analysis<br>**Reporting:** Data Visualization · Dashboards · Data Storytelling · Insight Reporting<br>**Project Tools:** Issue Tracking · Agile Workflows (Jira)<br>**Soft skills:** Analytical Thinking · Problem Solving · Attention to Detail · Business Communication<br>**Currently learning:** Google Sheets · Tableau · Data Analytics Process (Google Data Analytics) |
 | 📊 **Project** | [AtliQ Hardware Sales Analysis](https://github.com/mahimghori42/atliq-hardware-sales-analysis) |
 | 📜 **Certifications** | [Codebasics Certificate](https://codebasics.io/certificate/CB-51-734663) · [Introduction to JIRA (Simplilearn)](https://certificates.simplicdn.net/share/9759263_10037581_1769347873082.pdf) · Google Data Analytics Certificate *(in progress)* |
 | 🟢 **Status** | Open to work |
