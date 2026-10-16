@@ -27,11 +27,25 @@
 |---|---|
 | 🎓 **Background** | BBA Graduate |
 | 💼 **Role** | Aspiring Data Analyst |
-| 🛠️ **Skills** | **Tools:** Excel · SQL · Power BI · Jira<br>**Excel:** Pivot Tables · Formulas & Functions · Lookups (VLOOKUP / XLOOKUP) · Conditional Formatting · Charts<br>**Analysis:** Data Analysis · Data Cleaning · Trend Analysis · KPI Tracking · Sales & Customer Analysis · Market Performance Analysis<br>**Reporting:** Data Visualization · Dashboards · Data Storytelling · Insight Reporting<br>**Project Tools:** Issue Tracking · Agile Workflows (Jira)<br>**Soft skills:** Analytical Thinking · Problem Solving · Attention to Detail · Business Communication<br>**Currently learning:** Google Sheets · Tableau · Data Analytics Process (Google Data Analytics) |
-| 📊 **Project** | [AtliQ Hardware Sales Analysis](https://github.com/mahimghori42/atliq-hardware-sales-analysis) |
+| 🛠️ **Core Tools** | Excel · SQL · Power BI · Jira |
+| 📊 **Projects** | [AtliQ Hardware Sales Analysis](https://github.com/mahimghori42/atliq-hardware-sales-analysis) · [Zepto Inventory SQL Analysis](https://github.com/mahimghori42/zepto-inventory-sql-analysis) |
 | 📜 **Certifications** | [Codebasics Certificate](https://codebasics.io/certificate/CB-51-734663) · [Introduction to JIRA (Simplilearn)](https://certificates.simplicdn.net/share/9759263_10037581_1769347873082.pdf) · Google Data Analytics Certificate *(in progress)* |
 | 🟢 **Status** | Open to work |
 | 🔍 **Looking for** | Analyst roles |
+
+---
+
+## 🧠 Skills
+
+| Category | Skills |
+|----------|--------|
+| 🧰 **Tools** | Excel · SQL (PostgreSQL) · Power BI · Jira |
+| 📗 **Excel** | Pivot Tables · Formulas · Lookups · Conditional Formatting · Charts |
+| 🔍 **Analysis** | Data Cleaning · Trend Analysis · KPI Tracking · Sales & Inventory Analysis |
+| 📈 **Reporting** | Data Visualization · Dashboards · Data Storytelling |
+| 🗂️ **Project Tools** | Issue Tracking · Agile Workflows |
+| 🤝 **Soft Skills** | Analytical Thinking · Problem Solving · Attention to Detail · Communication |
+| 🌱 **Learning** | Google Sheets · Tableau · Google Data Analytics |
 
 ---
 
@@ -51,13 +65,26 @@
 
 [![Code](https://img.shields.io/badge/Code-View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a)](https://github.com/mahimghori42/atliq-hardware-sales-analysis)
 
+### 🛒 Zepto Inventory SQL Analysis
+
+<a href="https://github.com/mahimghori42/zepto-inventory-sql-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimghori42&repo=zepto-inventory-sql-analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="zepto-inventory-sql-analysis" />
+</a>
+
+| Layer | Technology |
+|-------|------------|
+| Database | PostgreSQL |
+| Data Analysis | SQL |
+
+[![Code](https://img.shields.io/badge/Code-View%20Repository-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a)](https://github.com/mahimghori42/zepto-inventory-sql-analysis)
+
 ---
 
 ## 🛠️ Tech Stack
 
 **Data Analytics & BI**
 
-<img src="https://skillicons.dev/icons?i=excel,powerbi" alt="Excel, Power BI" />
+<img src="https://skillicons.dev/icons?i=excel,powerbi,postgres" alt="Excel, Power BI, PostgreSQL" />
 <img src="https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=databricks&logoColor=0f172a&labelColor=7dd3fc" alt="SQL" height="48" />
 
 ---
